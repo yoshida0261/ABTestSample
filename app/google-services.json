@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030602042507",
+    "firebase_url": "https://appab-346dc.firebaseio.com",
+    "project_id": "appab-346dc",
+    "storage_bucket": "appab-346dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030602042507:android:db7677ce06b60e0933b88e",
+        "android_client_info": {
+          "package_name": "jp.co.stah.abtestsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030602042507-c07dkncrsp0cevul7jni8h85v5a3c51u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaNEMeZaQZJiFPjETuwBEeXmhqjOdYpz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030602042507-c07dkncrsp0cevul7jni8h85v5a3c51u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
